@@ -1,0 +1,25 @@
+{
+  "qq_number": "3222354741",
+  "group_number": "1053744363",
+  "updated_at": "2026-04-23T15:52:37.922368",
+  "skins": [
+    {
+      "name": "灰の雪姫は悪夢を紡ぐ",
+      "file": "灰の雪姫は悪夢を紡ぐ.bdi",
+      "thumb": "灰の雪姫は悪夢を紡ぐ.bdi_py_26_light_thumb.png",
+      "full": "灰の雪姫は悪夢を紡ぐ.bdi_py_26_light.png"
+    },
+    {
+      "name": "灰の雪姫は悪夢を紡ぐ",
+      "file": "灰の雪姫は悪夢を紡く.bds",
+      "thumb": "灰の雪姫は悪夢を紡く.bds_py_26_light_thumb.png",
+      "full": "灰の雪姫は悪夢を紡く.bds_py_26_light.png"
+    },
+    {
+      "name": "灰の雪姫は悪夢を紡ぐ",
+      "file": "灰の雪姫は悪夢を紡ぐ.bds",
+      "thumb": "灰の雪姫は悪夢を紡ぐ.bds_py_26_light_thumb.png",
+      "full": "灰の雪姫は悪夢を紡ぐ.bds_py_26_light.png"
+    }
+  ]
+}

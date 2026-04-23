@@ -1,0 +1,517 @@
+{
+  "qq_number": "3222354741",
+  "group_number": "905750388",
+  "updated_at": "2026-04-23T15:52:35.882389",
+  "skins": [
+    {
+      "name": "xin",
+      "file": "日和绘物語.bdi",
+      "thumb": "日和绘物語.bdi_py_26_light_thumb.png",
+      "full": "日和绘物語.bdi_py_26_light.png"
+    },
+    {
+      "name": "Forest Fantasy",
+      "file": "ForestFantasy.bdi",
+      "thumb": "ForestFantasy.bdi_py_26_light_thumb.png",
+      "full": "ForestFantasy.bdi_py_26_light.png"
+    },
+    {
+      "name": "粉梦旋律",
+      "file": "粉梦旋律.bdi",
+      "thumb": "粉梦旋律.bdi_py_26_default_thumb.png",
+      "full": "粉梦旋律.bdi_py_26_default.png"
+    },
+    {
+      "name": "ふわもこ境界線",
+      "file": "ふわもこ境界線.bdi",
+      "thumb": "ふわもこ境界線.bdi_py_26_light_thumb.png",
+      "full": "ふわもこ境界線.bdi_py_26_light.png"
+    },
+    {
+      "name": "森系萌味",
+      "file": "森系萌味.bdi",
+      "thumb": "森系萌味.bdi_py_26_light_thumb.png",
+      "full": "森系萌味.bdi_py_26_light.png"
+    },
+    {
+      "name": "猫咪时光",
+      "file": "猫咪时光.bdi",
+      "thumb": "猫咪时光.bdi_py_26_light_thumb.png",
+      "full": "猫咪时光.bdi_py_26_light.png"
+    },
+    {
+      "name": "Distantな夜想曲",
+      "file": "Distantな夜想曲.bdi",
+      "thumb": "Distantな夜想曲.bdi_py_26_light_thumb.png",
+      "full": "Distantな夜想曲.bdi_py_26_light.png"
+    },
+    {
+      "name": "しろゆめ",
+      "file": "しろゆめ.bdi",
+      "thumb": "しろゆめ.bdi_py_26_light_thumb.png",
+      "full": "しろゆめ.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Darklullaby.bdi",
+      "thumb": "Darklullaby.bdi_py_26_light_thumb.png",
+      "full": "Darklullaby.bdi_py_26_light.png"
+    },
+    {
+      "name": "不死之魅",
+      "file": "不死之魅.bdi",
+      "thumb": "不死之魅.bdi_py_26_light_thumb.png",
+      "full": "不死之魅.bdi_py_26_light.png"
+    },
+    {
+      "name": "轻音部の午后慢歌",
+      "file": "轻音部の午后慢歌.bdi",
+      "thumb": "轻音部の午后慢歌.bdi_py_26_light_thumb.png",
+      "full": "轻音部の午后慢歌.bdi_py_26_light.png"
+    },
+    {
+      "name": "叮！今日甜度超标",
+      "file": "叮今日甜度超标.bdi",
+      "thumb": "叮今日甜度超标.bdi_py_26_light_thumb.png",
+      "full": "叮今日甜度超标.bdi_py_26_light.png"
+    },
+    {
+      "name": "被烤得刚刚好的世界",
+      "file": "被烤得刚刚好的世界.bdi",
+      "thumb": "被烤得刚刚好的世界.bdi_py_26_light_thumb.png",
+      "full": "被烤得刚刚好的世界.bdi_py_26_light.png"
+    },
+    {
+      "name": "慢慢飘散的棉云日子",
+      "file": "慢慢飘散的棉云日子.bdi",
+      "thumb": "慢慢飘散的棉云日子.bdi_py_26_light_thumb.png",
+      "full": "慢慢飘散的棉云日子.bdi_py_26_light.png"
+    },
+    {
+      "name": "青苹果来信",
+      "file": "青苹果来信.bdi",
+      "thumb": "青苹果来信.bdi_py_26_light_thumb.png",
+      "full": "青苹果来信.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "雾桜ノ雫.bdi",
+      "thumb": "雾桜ノ雫.bdi_py_26_light_thumb.png",
+      "full": "雾桜ノ雫.bdi_py_26_light.png"
+    },
+    {
+      "name": "桃气奶昔",
+      "file": "桃气奶昔.bdi",
+      "thumb": "桃气奶昔.bdi_py_26_light_thumb.png",
+      "full": "桃气奶昔.bdi_py_26_light.png"
+    },
+    {
+      "name": "黒と白の誓い",
+      "file": "黒と白の誓い.bdi",
+      "thumb": "黒と白の誓い.bdi_py_26_light_thumb.png",
+      "full": "黒と白の誓い.bdi_py_26_light.png"
+    },
+    {
+      "name": "ロマンス中毒",
+      "file": "ロマンス中毒.bdi",
+      "thumb": "ロマンス中毒.bdi_py_26_light_thumb.png",
+      "full": "ロマンス中毒.bdi_py_26_light.png"
+    },
+    {
+      "name": "蜜柑の陽だまり",
+      "file": "蜜柑の陽だまり.bdi",
+      "thumb": "蜜柑の陽だまり.bdi_py_26_light_thumb.png",
+      "full": "蜜柑の陽だまり.bdi_py_26_light.png"
+    },
+    {
+      "name": "午後，世界輕輕偏離現實",
+      "file": "午後世界輕輕偏離現實.bdi",
+      "thumb": "午後世界輕輕偏離現實.bdi_py_26_light_thumb.png",
+      "full": "午後世界輕輕偏離現實.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "電子桜夢.bdi",
+      "thumb": "電子桜夢.bdi_py_26_light_thumb.png",
+      "full": "電子桜夢.bdi_py_26_light.png"
+    },
+    {
+      "name": "シロイワタシ",
+      "file": "シロイワタシ.bdi",
+      "thumb": "シロイワタシ.bdi_py_26_light_thumb.png",
+      "full": "シロイワタシ.bdi_py_26_light.png"
+    },
+    {
+      "name": "子悪魔奏曲",
+      "file": "子悪魔奏曲.bdi",
+      "thumb": "子悪魔奏曲.bdi_py_26_light_thumb.png",
+      "full": "子悪魔奏曲.bdi_py_26_light.png"
+    },
+    {
+      "name": "xin",
+      "file": "히메梦工房.bdi",
+      "thumb": "히메梦工房.bdi_py_26_light_thumb.png",
+      "full": "히메梦工房.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "巧克力之森.bdi",
+      "thumb": "巧克力之森.bdi_py_26_light_thumb.png",
+      "full": "巧克力之森.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "堕落天使的眼泪.bdi",
+      "thumb": "堕落天使的眼泪.bdi_py_26_light_thumb.png",
+      "full": "堕落天使的眼泪.bdi_py_26_light.png"
+    },
+    {
+      "name": "粉梦旋律",
+      "file": "粉梦旋律融合底.bdi",
+      "thumb": "粉梦旋律融合底.bdi_py_26_default_thumb.png",
+      "full": "粉梦旋律融合底.bdi_py_26_default.png"
+    },
+    {
+      "name": "云绒心语",
+      "file": "云绒心语.bdi",
+      "thumb": "云绒心语.bdi_py_26_light_thumb.png",
+      "full": "云绒心语.bdi_py_26_light.png"
+    },
+    {
+      "name": "绵光町屋",
+      "file": "绵光町屋.bdi",
+      "thumb": "绵光町屋.bdi_py_26_light_thumb.png",
+      "full": "绵光町屋.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "星うた眠兎館.bdi",
+      "thumb": "星うた眠兎館.bdi_py_26_light_thumb.png",
+      "full": "星うた眠兎館.bdi_py_26_light.png"
+    },
+    {
+      "name": "堕翼信仰录",
+      "file": "堕翼信仰录.bdi",
+      "thumb": "堕翼信仰录.bdi_py_26_light_thumb.png",
+      "full": "堕翼信仰录.bdi_py_26_light.png"
+    },
+    {
+      "name": "数码子",
+      "file": "数码子.bdi",
+      "thumb": "数码子.bdi_py_26_light_thumb.png",
+      "full": "数码子.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "月蚀人偶.bdi",
+      "thumb": "月蚀人偶.bdi_py_26_light_thumb.png",
+      "full": "月蚀人偶.bdi_py_26_light.png"
+    },
+    {
+      "name": "ウサギ症候群",
+      "file": "ウサキ症候群.bdi",
+      "thumb": "ウサキ症候群.bdi_py_26_light_thumb.png",
+      "full": "ウサキ症候群.bdi_py_26_light.png"
+    },
+    {
+      "name": "新世代蒼の謡",
+      "file": "新世代蒼の謡.bdi",
+      "thumb": "新世代蒼の謡.bdi_py_26_light_thumb.png",
+      "full": "新世代蒼の謡.bdi_py_26_light.png"
+    },
+    {
+      "name": "電波♪少女の旧夢",
+      "file": "電波少女の旧夢.bdi",
+      "thumb": "電波少女の旧夢.bdi_py_26_light_thumb.png",
+      "full": "電波少女の旧夢.bdi_py_26_light.png"
+    },
+    {
+      "name": "白薔薇は宵に咲く",
+      "file": "白薔薇は宵に咲く.bdi",
+      "thumb": "白薔薇は宵に咲く.bdi_py_26_light_thumb.png",
+      "full": "白薔薇は宵に咲く.bdi_py_26_light.png"
+    },
+    {
+      "name": "硝子の夢、夜に溶ける",
+      "file": "硝子の夢夜に溶ける.bdi",
+      "thumb": "硝子の夢夜に溶ける.bdi_py_26_light_thumb.png",
+      "full": "硝子の夢夜に溶ける.bdi_py_26_light.png"
+    },
+    {
+      "name": "氷華ミュゼ",
+      "file": "氷華ミュゼ.bdi",
+      "thumb": "氷華ミュゼ.bdi_py_26_light_thumb.png",
+      "full": "氷華ミュゼ.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小猫蛋挞物语.bdi",
+      "thumb": "小猫蛋挞物语.bdi_py_26_light_thumb.png",
+      "full": "小猫蛋挞物语.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "闇薔薇契約.bdi",
+      "thumb": "闇薔薇契約.bdi_py_26_light_thumb.png",
+      "full": "闇薔薇契約.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "LoveVirus-恋爱病毒.bdi",
+      "thumb": "LoveVirus-恋爱病毒.bdi_py_26_light_thumb.png",
+      "full": "LoveVirus-恋爱病毒.bdi_py_26_light.png"
+    },
+    {
+      "name": "叮！今日甜度超标",
+      "file": "叮今日甜度超标.bds",
+      "thumb": "叮今日甜度超标.bds_py_26_light_thumb.png",
+      "full": "叮今日甜度超标.bds_py_26_light.png"
+    },
+    {
+      "name": "◔.̮◔✧HI！这是欣欣的底包( •͈ᴗ⁃͈)ᓂ- - -♡﻿",
+      "file": "ふわもこ境界線.bds",
+      "thumb": "ふわもこ境界線.bds_py_26_light_thumb.png",
+      "full": "ふわもこ境界線.bds_py_26_light.png"
+    },
+    {
+      "name": "慢慢飘散的棉云日子",
+      "file": "慢慢飘散的棉云日子.bds",
+      "thumb": "慢慢飘散的棉云日子.bds_py_26_light_thumb.png",
+      "full": "慢慢飘散的棉云日子.bds_py_26_light.png"
+    },
+    {
+      "name": "xin",
+      "file": "日和绘物語.bds",
+      "thumb": "日和绘物語.bds_py_26_light_thumb.png",
+      "full": "日和绘物語.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "堕翼信仰录.bds",
+      "thumb": "堕翼信仰录.bds_py_26_light_thumb.png",
+      "full": "堕翼信仰录.bds_py_26_light.png"
+    },
+    {
+      "name": "xin",
+      "file": "白薔薇は宵に咲く.bds",
+      "thumb": "白薔薇は宵に咲く.bds_py_26_light_thumb.png",
+      "full": "白薔薇は宵に咲く.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "巧克力之森.bds",
+      "thumb": "巧克力之森.bds_py_26_light_thumb.png",
+      "full": "巧克力之森.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "雾桜ノ雫.bds",
+      "thumb": "雾桜ノ雫.bds_py_26_light_thumb.png",
+      "full": "雾桜ノ雫.bds_py_26_light.png"
+    },
+    {
+      "name": "午後，世界輕輕偏離現實",
+      "file": "午後世界輕輕偏離現實.bds",
+      "thumb": "午後世界輕輕偏離現實.bds_py_26_light_thumb.png",
+      "full": "午後世界輕輕偏離現實.bds_py_26_light.png"
+    },
+    {
+      "name": "xin",
+      "file": "히메梦工房.bds",
+      "thumb": "히메梦工房.bds_py_26_light_thumb.png",
+      "full": "히메梦工房.bds_py_26_light.png"
+    },
+    {
+      "name": "蜜柑の陽だまり",
+      "file": "蜜柑の陽だまり.bds",
+      "thumb": "蜜柑の陽だまり.bds_py_26_light_thumb.png",
+      "full": "蜜柑の陽だまり.bds_py_26_light.png"
+    },
+    {
+      "name": "氷華ミュゼ",
+      "file": "氷華ミュゼ.bds",
+      "thumb": "氷華ミュゼ.bds_py_26_light_thumb.png",
+      "full": "氷華ミュゼ.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "不死之魅.bds",
+      "thumb": "不死之魅.bds_py_26_light_thumb.png",
+      "full": "不死之魅.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小猫蛋挞物语.bds",
+      "thumb": "小猫蛋挞物语.bds_py_26_light_thumb.png",
+      "full": "小猫蛋挞物语.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "Darklullaby.bds",
+      "thumb": "Darklullaby.bds_py_26_light_thumb.png",
+      "full": "Darklullaby.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "月蚀人偶.bds",
+      "thumb": "月蚀人偶.bds_py_26_light_thumb.png",
+      "full": "月蚀人偶.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "桃气奶昔.bds",
+      "thumb": "桃气奶昔.bds_py_26_light_thumb.png",
+      "full": "桃气奶昔.bds_py_26_light.png"
+    },
+    {
+      "name": "◔.̮◔✧HI！这是欣欣的底包( •͈ᴗ⁃͈)ᓂ- - -♡﻿",
+      "file": "ForestFantasy.bds",
+      "thumb": "ForestFantasy.bds_py_26_light_thumb.png",
+      "full": "ForestFantasy.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "シロイワタシ.bds",
+      "thumb": "シロイワタシ.bds_py_26_light_thumb.png",
+      "full": "シロイワタシ.bds_py_26_light.png"
+    },
+    {
+      "name": "被烤得刚刚好的世界",
+      "file": "被烤得刚刚好的世界.bds",
+      "thumb": "被烤得刚刚好的世界.bds_py_26_light_thumb.png",
+      "full": "被烤得刚刚好的世界.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "電子桜夢.bds",
+      "thumb": "電子桜夢.bds_py_26_light_thumb.png",
+      "full": "電子桜夢.bds_py_26_light.png"
+    },
+    {
+      "name": "绵光町屋",
+      "file": "绵光町屋.bds",
+      "thumb": "绵光町屋.bds_py_26_light_thumb.png",
+      "full": "绵光町屋.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "堕落天使的眼泪.bds",
+      "thumb": "堕落天使的眼泪.bds_py_26_light_thumb.png",
+      "full": "堕落天使的眼泪.bds_py_26_light.png"
+    },
+    {
+      "name": "電波♪少女の旧夢",
+      "file": "電波少女の旧夢.bds",
+      "thumb": "電波少女の旧夢.bds_py_26_light_thumb.png",
+      "full": "電波少女の旧夢.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "云绒心语.bds",
+      "thumb": "云绒心语.bds_py_26_light_thumb.png",
+      "full": "云绒心语.bds_py_26_light.png"
+    },
+    {
+      "name": "青苹果来信",
+      "file": "青苹果来信.bds",
+      "thumb": "青苹果来信.bds_py_26_light_thumb.png",
+      "full": "青苹果来信.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "黒と白の誓い.bds",
+      "thumb": "黒と白の誓い.bds_py_26_light_thumb.png",
+      "full": "黒と白の誓い.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "ロマンス中毒.bds",
+      "thumb": "ロマンス中毒.bds_py_26_light_thumb.png",
+      "full": "ロマンス中毒.bds_py_26_light.png"
+    },
+    {
+      "name": "轻音部の午后慢歌",
+      "file": "轻音部の午后慢歌.bds",
+      "thumb": "轻音部の午后慢歌.bds_py_26_light_thumb.png",
+      "full": "轻音部の午后慢歌.bds_py_26_light.png"
+    },
+    {
+      "name": "Distantな夜想曲",
+      "file": "Distantな夜想曲.bds",
+      "thumb": "Distantな夜想曲.bds_py_26_light_thumb.png",
+      "full": "Distantな夜想曲.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "猫咪时光.bds",
+      "thumb": "猫咪时光.bds_py_26_light_thumb.png",
+      "full": "猫咪时光.bds_py_26_light.png"
+    },
+    {
+      "name": "硝子の夢、夜に溶ける",
+      "file": "硝子の夢夜に溶ける.bds",
+      "thumb": "硝子の夢夜に溶ける.bds_py_26_light_thumb.png",
+      "full": "硝子の夢夜に溶ける.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "数码子.bds",
+      "thumb": "数码子.bds_py_26_light_thumb.png",
+      "full": "数码子.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "LoveVirus-恋爱病毒.bds",
+      "thumb": "LoveVirus-恋爱病毒.bds_py_26_light_thumb.png",
+      "full": "LoveVirus-恋爱病毒.bds_py_26_light.png"
+    },
+    {
+      "name": "星うた眠兎館",
+      "file": "星うた眠兎館.bds",
+      "thumb": "星うた眠兎館.bds_py_26_light_thumb.png",
+      "full": "星うた眠兎館.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "しろゆめ.bds",
+      "thumb": "しろゆめ.bds_py_26_light_thumb.png",
+      "full": "しろゆめ.bds_py_26_light.png"
+    },
+    {
+      "name": "子悪魔奏曲",
+      "file": "子悪魔奏曲.bds",
+      "thumb": "子悪魔奏曲.bds_py_26_light_thumb.png",
+      "full": "子悪魔奏曲.bds_py_26_light.png"
+    },
+    {
+      "name": "新世代蒼の謡",
+      "file": "新世代蒼の謡.bds",
+      "thumb": "新世代蒼の謡.bds_py_26_light_thumb.png",
+      "full": "新世代蒼の謡.bds_py_26_light.png"
+    },
+    {
+      "name": "◔.̮◔✧HI！这是欣欣的底包( •͈ᴗ⁃͈)ᓂ- - -♡﻿",
+      "file": "ウサキ症候群.bds",
+      "thumb": "ウサキ症候群.bds_py_26_light_thumb.png",
+      "full": "ウサキ症候群.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "闇薔薇契約.bds",
+      "thumb": "闇薔薇契約.bds_py_26_light_thumb.png",
+      "full": "闇薔薇契約.bds_py_26_light.png"
+    },
+    {
+      "name": "粉梦旋律",
+      "file": "粉梦旋律.bds",
+      "thumb": "粉梦旋律.bds_py_26_default_thumb.png",
+      "full": "粉梦旋律.bds_py_26_default.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "森系萌味.bds",
+      "thumb": "森系萌味.bds_py_26_light_thumb.png",
+      "full": "森系萌味.bds_py_26_light.png"
+    }
+  ]
+}
