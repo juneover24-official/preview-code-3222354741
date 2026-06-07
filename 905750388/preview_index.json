@@ -1,7 +1,7 @@
 {
   "qq_number": "3222354741",
   "group_number": "905750388",
-  "updated_at": "2026-04-23T15:52:35.882389",
+  "updated_at": "2026-06-07T03:54:06+00:00",
   "skins": [
     {
       "name": "xin",
@@ -512,6 +512,12 @@
       "file": "森系萌味.bds",
       "thumb": "森系萌味.bds_py_26_light_thumb.png",
       "full": "森系萌味.bds_py_26_light.png"
+    },
+    {
+      "name": "羽翼载着沉寂的温柔",
+      "file": "羽翼载着沉寂的温柔.bdi",
+      "thumb": "羽翼载着沉寂的温柔.bdi_py_26_light_thumb.png",
+      "full": "羽翼载着沉寂的温柔.bdi_py_26_light_thumb.png"
     }
   ]
 }
