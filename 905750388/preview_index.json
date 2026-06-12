@@ -1,7 +1,7 @@
 {
   "qq_number": "3222354741",
   "group_number": "905750388",
-  "updated_at": "2026-06-12T21:06:42+00:00",
+  "updated_at": "2026-06-12T21:14:42+00:00",
   "skins": [
     {
       "name": "xin",
@@ -524,6 +524,12 @@
       "file": "牛油果与早安吐司.bds",
       "thumb": "牛油果与早安吐司.bds_py_26_light_thumb.png",
       "full": "牛油果与早安吐司.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "牛油果与早安吐司",
+      "file": "牛油果与早安吐司.bdi",
+      "thumb": "牛油果与早安吐司.bdi_py_26_light_thumb.png",
+      "full": "牛油果与早安吐司.bdi_py_26_light_thumb.png"
     }
   ]
 }
