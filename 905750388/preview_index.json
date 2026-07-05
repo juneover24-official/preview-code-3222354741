@@ -1,7 +1,7 @@
 {
   "qq_number": "3222354741",
   "group_number": "905750388",
-  "updated_at": "2026-07-05T10:40:57+00:00",
+  "updated_at": "2026-07-05T10:41:51+00:00",
   "skins": [
     {
       "name": "xin",
@@ -560,6 +560,12 @@
       "file": "白昼之月与旷野信号.bdi",
       "thumb": "白昼之月与旷野信号.bdi_py_26_light_thumb.png",
       "full": "白昼之月与旷野信号.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "白昼之月与旷野信号",
+      "file": "白昼之月与旷野信号.bds",
+      "thumb": "白昼之月与旷野信号.bds_py_26_light_thumb.png",
+      "full": "白昼之月与旷野信号.bds_py_26_light_thumb.png"
     }
   ]
 }
