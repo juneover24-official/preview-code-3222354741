@@ -1,7 +1,7 @@
 {
   "qq_number": "3222354741",
   "group_number": "905750388",
-  "updated_at": "2026-07-05T10:39:57+00:00",
+  "updated_at": "2026-07-05T10:40:27+00:00",
   "skins": [
     {
       "name": "xin",
@@ -548,6 +548,12 @@
       "file": "糖霜橘色夏.bdi",
       "thumb": "糖霜橘色夏.bdi_py_26_light_thumb.png",
       "full": "糖霜橘色夏.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "凛冽花信",
+      "file": "凛冽花信.bdi",
+      "thumb": "凛冽花信.bdi_py_26_light_thumb.png",
+      "full": "凛冽花信.bdi_py_26_light_thumb.png"
     }
   ]
 }
